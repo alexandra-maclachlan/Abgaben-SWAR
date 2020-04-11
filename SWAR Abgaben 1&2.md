@@ -150,31 +150,31 @@ Aufgaben:
 
 5. **Notieren Sie die Nutzungsanforderungen.**
 
-   - Der Nutzer muss am System seinen Vor- und Nachnamen eingeben können.
-   - Der Nutzer muss am System seine E-Mail-Adresse eingeben können.
-   - Der Nutzer muss am System sein Passwort eingeben können.
-   - Der Nutzer muss am System den Button zum Registrieren auswählen können. 
+   - NA1: Der Nutzer muss am System seinen Vor- und Nachnamen eingeben können.
+   - NA2: Der Nutzer muss am System seine E-Mail-Adresse eingeben können.
+   - NA3: Der Nutzer muss am System sein Passwort eingeben können.
+   - NA4: Der Nutzer muss am System den Button zum Registrieren auswählen können. 
 
-   - Der Nutzer muss am System seine Rolle auswählen können.
-   - Der Nutzer muss am System seine Benutzerdaten zum Anmelden eingeben können.
-   - Der Nutzer muss am System den Button zum Anmelden auswählen können.
-   - Der Nutzer muss am System die aktuellen Daten erkennen können.
-   - Der Nutzer muss am System die neuen Daten eingeben können.
-   - Der Nutzer muss am System den Button zum speichern auswählen können.
-   - Der Nutzer muss am System die Kunden eindeutig unterscheiden können.
-   - Der Nutzer muss am System einen Kunden auswählen können.
-   - Der Nutzer muss am System erkennen können wie er sich ausloggen kann.
-   - Der Nutzer muss am System den Butten zum Ausloggen auswählen können.
-   - Der Nutzer muss am System eine Nachricht eingeben können. 
-   - Der Nutzer muss am System den Button zum Versenden der Nachricht auswählen können. 
-   - Der Nutzer muss am System einen Button zum Abonnieren des Newsletters erkennen können.
-   - Der Nutzer muss am System einen Button zum Abonnieren des Newsletters auswählen können.
-   - Der Nutzer muss am System einen neuen Newsletter eingeben können.
-   - Der Nutzer muss am System den Button zum Bearbeiten des Newsletters auswählen können. 
-   - Der Nutzer muss am System den Button zum Speichern der Änderung auswählen können.
-   - Der Nutzer muss am System den Button zum Versenden des Newsletters an den Kunden auswählen können.
-   - Der Nutzer muss am System den aktuellen Newsletter online erkennen können.
-   - Der Nutzer muss am System den Button zum löschen von Kundendaten auswählen können.
-   - Der Nutzer muss am System den Button zum Abmelden des Newsletters auswählen können.
+   - NA5: Der Nutzer muss am System seine Rolle auswählen können.
+   - NA6: Der Nutzer muss am System seine Benutzerdaten zum Anmelden eingeben können.
+   - NA7: Der Nutzer muss am System den Button zum Anmelden auswählen können.
+   - NA8: Der Nutzer muss am System die aktuellen Daten erkennen können.
+   - NA9: Der Nutzer muss am System die neuen Daten eingeben können.
+   - NA10: Der Nutzer muss am System den Button zum speichern auswählen können.
+   - NA11: Der Nutzer muss am System die Kunden eindeutig unterscheiden können.
+   - NA12: Der Nutzer muss am System einen Kunden auswählen können.
+   - NA13: Der Nutzer muss am System erkennen können wie er sich ausloggen kann.
+   - NA14: Der Nutzer muss am System den Butten zum Ausloggen auswählen können.
+   - NA15: Der Nutzer muss am System eine Nachricht eingeben können. 
+   - NA16: Der Nutzer muss am System den Button zum Versenden der Nachricht auswählen können. 
+   - NA17: Der Nutzer muss am System einen Button zum Abonnieren des Newsletters erkennen können.
+   - NA18: Der Nutzer muss am System einen Button zum Abonnieren des Newsletters auswählen können.
+   - NA19: Der Nutzer muss am System einen neuen Newsletter eingeben können.
+   - NA20: Der Nutzer muss am System den Button zum Bearbeiten des Newsletters auswählen können. 
+   - NA21: Der Nutzer muss am System den Button zum Speichern der Änderung auswählen können.
+   - NA22: Der Nutzer muss am System den Button zum Versenden des Newsletters an den Kunden auswählen können.
+   - NA23: Der Nutzer muss am System den aktuellen Newsletter online erkennen können.
+   - NA24: Der Nutzer muss am System den Button zum löschen von Kundendaten auswählen können.
+   - NA25: Der Nutzer muss am System den Button zum Abmelden des Newsletters auswählen können.
 
    
